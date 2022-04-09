@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{041D3868-A9C4-4077-A3D6-5D231C3F4E06}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API_QLNH/Models/ThucDon.cs">
+    <Files>
+      <File FileName="API_QLNH/Program.cs" Line="55" Column="28" />
+      <File FileName="API_QLNH/Models/MonAn.cs" Line="1" Column="1" />
+      <File FileName="API_QLNH/Controllers/MonAnController.cs" Line="137" Column="14" />
+      <File FileName="API_QLNH/Controllers/ThucDonController.cs" Line="49" Column="15" />
+      <File FileName="API_QLNH/Models/ThucDon.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="API_QLNH" expanded="True">
+            <Node name="API_QLNH" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ThucDon.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.API__QLNH PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
